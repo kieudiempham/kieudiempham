@@ -27,14 +27,6 @@ AI Engineer • NLP • RAG • Research
 
 </p>
 
----
-
-## Quote of the Day
-
-> Build systems, not just models.
-
----
-
 ## About Me
 
 I'm a Software Engineering student at the University of Information Technology (UIT - VNUHCM).
@@ -182,18 +174,6 @@ Distributed microservices platform featuring:
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kieudiempham&show_icons=true" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kieudiempham&layout=compact" />
-</p>
-
----
-
 ## Connect With Me
 
 📧 Email: [kieudiemwppt@gmail.com](mailto:kieudiemwppt@gmail.com)
@@ -205,8 +185,6 @@ https://linkedin.com/in/pham-thi-kieu-diem-a954342aa
 https://github.com/kieudiempham
 
 ---
-
-## Contribution Snake
 
 ![snake](https://github.com/kieudiempham/kieudiempham/blob/output/github-contribution-grid-snake.svg)
 
