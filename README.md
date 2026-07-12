@@ -27,7 +27,7 @@ AI Engineer • NLP • RAG • Research
 
 </p>
 
-**Research Interests**
+## Research Interests
 - Neuro-Symbolic AI
 - Legal AI
 - Knowledge Graph
