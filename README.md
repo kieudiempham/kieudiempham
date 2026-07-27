@@ -33,9 +33,6 @@ AI Engineer • NLP • RAG • Research
 - Knowledge Graph
 - Explainable AI
 
-## 🌐 Website
-
-> **https://diempham.dev**
 
 ## 🔬 Featured Projects
 
